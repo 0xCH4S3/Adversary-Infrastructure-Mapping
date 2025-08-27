@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="3c63952a-25e0-42ec-81f3-8105cb36e304" src="https://github.com/user-attachments/assets/5fab6661-c340-4389-b9be-d1ce3717bef6" />
+<img width="500" height="500" alt="3c63952a-25e0-42ec-81f3-8105cb36e304" src="https://github.com/user-attachments/assets/5fab6661-c340-4389-b9be-d1ce3717bef6" />
 
 # What is Infrastructure Hunting?
 Infrastructure Hunting is a relatively new concept in Cyber Security and we believe that in the current marketplace, there is a large focus solely on the ingestion and collection of Indicators of Compromise (IOCs). These are low-level historical artifacts from incidents that have occurred within victim environments.
