@@ -1,18 +1,20 @@
-<img width="500" height="500" alt="3c63952a-25e0-42ec-81f3-8105cb36e304" src="https://github.com/user-attachments/assets/5fab6661-c340-4389-b9be-d1ce3717bef6" />
+<p align="center">
+  <img width="500" height="500" alt="3c63952a-25e0-42ec-81f3-8105cb36e304" src="https://github.com/user-attachments/assets/5fab6661-c340-4389-b9be-d1ce3717bef6" />
+</p>
 
 # Infrastructure Hunting by 0xCH4S3  
 
 Personal repository dedicated to storing malicious infrastructure identified through independent research.  
 This is just my free-time hobby, don’t judge me! 
 
----
+
 
 ## What is Infrastructure Hunting?  
 
 Infrastructure Hunting is a relatively new concept in Cyber Security.  
 We believe that the current landscape places too much emphasis on the ingestion and collection of Indicators of Compromise (IOCs), which are mostly low-level historical artifacts from incidents that have already taken place within victim environments.  
 
----
+
 
 ## Microsoft describes IOCs as:  
 
